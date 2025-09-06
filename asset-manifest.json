@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Fanpage-FrontendDeploy/static/css/main.55945009.css",
-    "main.js": "/Fanpage-FrontendDeploy/static/js/main.32f5da84.js",
+    "main.css": "/Fanpage-FrontendDeploy/static/css/main.14e15ff5.css",
+    "main.js": "/Fanpage-FrontendDeploy/static/js/main.d7966295.js",
     "static/media/gymnast-1.mp4": "/Fanpage-FrontendDeploy/static/media/gymnast-1.3a25f73737e452ac23ff.mp4",
     "static/media/hero-f.png": "/Fanpage-FrontendDeploy/static/media/hero-f.a079f20f8f12f53e8f62.png",
     "static/media/gifts.mp4": "/Fanpage-FrontendDeploy/static/media/gifts.55aa808491f227cd2843.mp4",
@@ -43,11 +43,11 @@
     "static/media/gallery-22.jpg": "/Fanpage-FrontendDeploy/static/media/gallery-22.0495692206f5f0bc68b3.jpg",
     "static/media/gallery-13.jpg": "/Fanpage-FrontendDeploy/static/media/gallery-13.50a345182d1f8c5dd9bb.jpg",
     "index.html": "/Fanpage-FrontendDeploy/index.html",
-    "main.55945009.css.map": "/Fanpage-FrontendDeploy/static/css/main.55945009.css.map",
-    "main.32f5da84.js.map": "/Fanpage-FrontendDeploy/static/js/main.32f5da84.js.map"
+    "main.14e15ff5.css.map": "/Fanpage-FrontendDeploy/static/css/main.14e15ff5.css.map",
+    "main.d7966295.js.map": "/Fanpage-FrontendDeploy/static/js/main.d7966295.js.map"
   },
   "entrypoints": [
-    "static/css/main.55945009.css",
-    "static/js/main.32f5da84.js"
+    "static/css/main.14e15ff5.css",
+    "static/js/main.d7966295.js"
   ]
 }
