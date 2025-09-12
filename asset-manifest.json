@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.798c64a4.css",
-    "main.js": "/static/js/main.a897d866.js",
+    "main.css": "/static/css/main.dab0b84f.css",
+    "main.js": "/static/js/main.21546609.js",
     "static/media/gymnast-1.mp4": "/static/media/gymnast-1.3a25f73737e452ac23ff.mp4",
-    "static/media/hero-f.png": "/static/media/hero-f.a079f20f8f12f53e8f62.png",
     "static/media/gifts.mp4": "/static/media/gifts.55aa808491f227cd2843.mp4",
     "static/media/gymnast-2.mp4": "/static/media/gymnast-2.d7bc8771acd41300f698.mp4",
-    "static/media/Wall background.png": "/static/media/Wall background.697d54c5194a8c155748.png",
     "static/media/CardPin.png": "/static/media/CardPin.83ba42492a55be98aa32.png",
     "static/media/CardPin2.png": "/static/media/CardPin2.4f931485e4daeca1b780.png",
+    "static/media/hero-f.webp": "/static/media/hero-f.a5f0e68eab21332630be.webp",
     "static/media/logo-1.png": "/static/media/logo-1.a76adc89f3db3f58afda.png",
+    "static/media/Jigsaw-Cover.png": "/static/media/Jigsaw-Cover.a251781e752a08e9d3f9.png",
+    "static/media/Wall background.webp": "/static/media/Wall background.c9904e946666106692b9.webp",
     "static/media/gallery-9.jpg": "/static/media/gallery-9.b3f15c37f7714e82f81a.jpg",
     "static/media/gallery-29.jpg": "/static/media/gallery-29.275ce76332affb388136.jpg",
     "static/media/gallery-5.jpg": "/static/media/gallery-5.53c90ecdcb6a4ef44c42.jpg",
@@ -43,11 +44,11 @@
     "static/media/gallery-22.jpg": "/static/media/gallery-22.0495692206f5f0bc68b3.jpg",
     "static/media/gallery-13.jpg": "/static/media/gallery-13.50a345182d1f8c5dd9bb.jpg",
     "index.html": "/index.html",
-    "main.798c64a4.css.map": "/static/css/main.798c64a4.css.map",
-    "main.a897d866.js.map": "/static/js/main.a897d866.js.map"
+    "main.dab0b84f.css.map": "/static/css/main.dab0b84f.css.map",
+    "main.21546609.js.map": "/static/js/main.21546609.js.map"
   },
   "entrypoints": [
-    "static/css/main.798c64a4.css",
-    "static/js/main.a897d866.js"
+    "static/css/main.dab0b84f.css",
+    "static/js/main.21546609.js"
   ]
 }
